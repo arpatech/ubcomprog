@@ -1,5 +1,5 @@
 /* $Id: comprog1c.c,v 1.1 2014/10/12 19:32:09 fjpfajardo Exp $
- * COMPROG 1C - Maam Liza Maderazo
+ * COMPROG 1C - Maam Liza Maderazo / Submitted: Federick Joe Fajardo / ETEEAP 2013-14
  * 1. Write a program that accepts dates written un numerical form 
  * and then output them as a complete form. For example, the input: 
  * 2 26 1986 should produce the output: February 26, 1986 */
