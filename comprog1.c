@@ -1,5 +1,5 @@
 /* $Id: comprog1.c,v 1.3 2014/10/12 19:22:56 fjpfajardo Exp $
- * COMPROG 1 - Maam Liza Maderazo
+ * COMPROG 1 - Maam Liza Maderazo / Submitted: Federick Joe Fajardo / ETEEAP 2013-14
  * 1. Write a program that takes as input the purchase price of an item (P), 
  * its expected number of years of service (Y) and its expected salvage value (S). 
  * Then outputs the yearly depreciation for the item (D). 
